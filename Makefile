@@ -125,5 +125,4 @@ github: publish
 
 travis: publish
 	ghp-import -m "Site Deploy" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
- 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git $(GITHUB_PAGES_BRANCH) > /dev/null
-
+ 	git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git $(GITHUB_PAGES_BRANCH)
