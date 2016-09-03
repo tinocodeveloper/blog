@@ -1,0 +1,11 @@
+language: python
+branches:
+  only:
+  - master
+install:
+- pip install -r requirements.txt
+script:
+- make travis
+env:
+  global:
+    secure: BGnIIywnrevYtrWlQMqshbES/EvneUkXy68/uQ9OyTxkZK4p9tv00R1oCdhmCru+Wax6l0veO0HpfHCEVqQ+15kgBvUfrKfsn9VPVxZ0cRK4RYuSqeYDxnHHTL3S7BI5YLp9c5N0QIWoNxKRd58cfUJb+E1+OVogv9Czf1f0B8BcVvii06n85vIfa8X2nyEbE281UjFY3bodlh7Y+vQMV/1fcNoNGwK+ODKb1+fjXyceBRf1FO7Dn8e0oneu1Damp6Z6MSolOSffDDMAU0U/oYxl4cgVBF4sI2LU0dEsrVJb+HmtYR0YomU5vhS9SHONURHdemJmQqGVuskyzxvotMMOFf6gCjB2m2IyQjA+5yXaO6jiy9UO3RHZfHI/8Stt2qzxDzbuEFKMK7yP6ntchXQ1xQElyGjQ9qtjxMh6dURkL7/M6KNGLtD2/NNhrhBDkT3ljmS1V80jDlYcjkqUGuubQ9h+IVftRwTsJYmOZZV79iPs/hFj3D8itKwTX634CygFPIiROFYI22Ayhe2MjiLUa3lDCFm6JCOHXmkNCbn2EmLWAdO6WmsReUQR+F8eNhMzs0cC5FWQbju2GMSKOwemDPmAx6cW1zHNKIw342UGU6wV/WXVgmfHGYncl5gppdx4nT3p5IQF4qWOD0E02abYps8OfHgJJ/StA/kPogA=
