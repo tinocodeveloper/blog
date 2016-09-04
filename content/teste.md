@@ -1,12 +1,19 @@
-Title: Hello Pelican!  
+Title: Olá Leitor!  
 Date: 2016-09-03 13:00  
 Category: Python  
 Tags: pelican, markdown  
-Slug: primeiro-artigo  
+Slug: primeiro-post  
 Author: Jean Tinoco  
-Summary: Um resumo sobre o post do Pelican
+Summary: Primeiro Post do Blog
 
-#Testando nosso primeiro post no Pelican
+# Primeiro post do Blog TinocoDeveloper
 
-Pelican é um gerador de páginas estáticas criado em python para facilitar nossa vida, na 
-criação de blogs, landingpages ou site estáticos.
+O blog Tinoco Developer é voltado para pessoas interessadas em assuntos como :
+
+##Tecnologia da Informação
+##Empreendedorismo 
+##Desenvolvimento Web
+##Desenvolvimento Mobile 
+##Mercado de TI
+##
+=
