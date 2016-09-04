@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog do Tinoco</title><link href="www.tinocodeveloper.com.br/" rel="alternate"></link><link href="www.tinocodeveloper.com.br/feeds/python.atom.xml" rel="self"></link><id>www.tinocodeveloper.com.br/</id><updated>2016-09-03T13:00:00-03:00</updated><entry><title>Hello Pelican!</title><link href="www.tinocodeveloper.com.br/primeiro-artigo.html" rel="alternate"></link><published>2016-09-03T13:00:00-03:00</published><author><name>Jean Tinoco</name></author><id>tag:,2016-09-03:www.tinocodeveloper.com.br/primeiro-artigo.html</id><summary type="html">&lt;h1&gt;Testando nosso primeiro post no Pelican&lt;/h1&gt;
+&lt;p&gt;Pelican é um gerador de páginas estáticas criado em python para facilitar nossa vida, na 
+criação de blogs, landingpages ou site estáticos.&lt;/p&gt;</summary><category term="pelican"></category><category term="markdown"></category></entry></feed>
