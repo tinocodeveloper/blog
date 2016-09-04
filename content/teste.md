@@ -15,5 +15,9 @@ O blog Tinoco Developer é voltado para pessoas interessadas em assuntos como :
 ##Desenvolvimento Web
 ##Desenvolvimento Mobile 
 ##Mercado de TI
-##
-=
+##Marketing Digital
+
+O Objetivo é colocar de forma simples o conhecimento aos devidos interessados. 
+
+#[**`Sobre mim `**](https://tinocodeveloper.github.io/blog/)
+ 
