@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-THEME = "Flex"
+THEME = "flex"
 
 AUTHOR = u'Jean Tinoco'
 SITENAME = u'Blog do Tinoco'
