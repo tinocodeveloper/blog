@@ -1,7 +1,7 @@
 Title: Olá Leitor!  
 Date: 2016-09-03 13:00  
 Category: Python  
-Tags: pelican, markdown  
+Tags: empreendedorismo  
 Slug: primeiro-post  
 Author: Jean Tinoco  
 Summary: Primeiro Post do Blog
